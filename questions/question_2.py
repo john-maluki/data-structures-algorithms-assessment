@@ -18,5 +18,3 @@ def remove_duplicates(sequence):
             elements_without_duplicates.append(el)
 
     return elements_without_duplicates
-
-print(remove_duplicates([2, 3, 2, 4, 5, 3, 6, 7, 5]))

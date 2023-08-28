@@ -28,5 +28,3 @@ def word_frequency(sentence):
             word_frequency[word] = 1
 
     return word_frequency
-
-print(word_frequency("This is a test sentence. This sentence is a test."))

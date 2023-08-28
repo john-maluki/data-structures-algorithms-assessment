@@ -33,7 +33,3 @@ def is_balanced(expression):
                 stack.pop()
      
     return len(stack) == 0
-
-expression1 = "({)"
-
-print(is_balanced(expression1))
