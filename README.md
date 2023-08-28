@@ -63,8 +63,10 @@ The following have been used on this project:
 
 - [John Maluki](https://github.com/john-maluki)
 - [Aswani Arnold](https://github.com/arnold-aswan)
-- [Frida Gathima](https://github.com/frida-gathima)
-- [Genevive Mbesi]
+- [Frida Gathima](https://github.com/FridaGathima)
+- [Genevive Mbesi](https://github.com/Genevive-Mbesi)
+- [Kiarie Kariuki](https://github.com/Kiarie-Kariuki)
+- [Levina Njambi](https://github.com/levina23)
 
 ## Copyright
 
