@@ -14,10 +14,11 @@
     print(result)
 """
 import string
+import re
 
 def word_frequency(sentence):
-    new_sentence = sentence.translate(str.maketrans("", "", string.punctuation)).lower()
-    words = new_sentence.split()
+    # new_sentence = sentence.translate(str.maketrans("", "", string.punctuation)).lower()
+    words = re.findall(r'\b\w+\b', sentence.lower())
 
     word_frequency = {}
 
