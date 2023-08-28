@@ -11,3 +11,12 @@
     result = remove_duplicates(input_sequence)
     print(result)  # Output: [2, 3, 4, 5, 6, 7]
 """
+def remove_duplicates(sequence):
+    elements_without_duplicates = []
+    for el in sequence:
+        if el not in elements_without_duplicates:
+            elements_without_duplicates.append(el)
+
+    return elements_without_duplicates
+
+print(remove_duplicates([2, 3, 2, 4, 5, 3, 6, 7, 5]))
