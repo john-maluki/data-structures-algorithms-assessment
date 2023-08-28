@@ -62,6 +62,9 @@ The following have been used on this project:
 ## Authors
 
 - [John Maluki](https://github.com/john-maluki)
+- [Aswani Arnold](https://github.com/arnold-aswan)
+- [Frida Gathima](https://github.com/frida-gathima)
+- [Genevive Mbesi]
 
 ## Copyright
 
