@@ -13,7 +13,6 @@
     result = word_frequency(sentence)
     print(result)
 """
-import string
 import re
 
 def word_frequency(sentence):
